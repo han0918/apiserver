@@ -1,0 +1,30 @@
+runmode: debug  # 开发模式, debug, release, test
+addr: :8080     # HTTP 绑定端口
+name: apiserver # API Server的名字
+url: http://127.0.0.1:8080 # pingServer 函数请求的API服务器的ip:port
+max_ping_count: 10 # pingServer 函数尝试的次数
+gormlog: true
+jwt_secret: kdjwnkRMSNKsnFKNs1NKSna1nskd0483dj
+tls:
+  addr: :8081
+  cert: conf/server.crt
+  key: conf/server.key
+log:
+  writers: file,stdout
+  logger_level: DEBUG
+  logger_file: log/apiserver.log
+  log_format_text: false
+  rollingPolicy: size
+  log_rotate_date: 1
+  log_rotate_size: 1024
+  log_backup_count: 7
+db:
+  name: db_apiserver
+  addr: 127.0.0.1:3306
+  username: root
+  password: jason0918
+docker_db:
+  name: db_apiserver
+  addr: 127.0.0.1:3306
+  username: root
+  password: jason0918

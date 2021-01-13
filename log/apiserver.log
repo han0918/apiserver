@@ -1,0 +1,398 @@
+{"level":"INFO","timestamp":"2020-12-01 22:15:56.458","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :6663"}
+{"level":"INFO","timestamp":"2020-12-01 22:15:56.560","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-01 22:18:26.089","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-12-01 22:18:53.322","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:18:53.323","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:18:56.030","file":"user/user.go:23","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2020-12-01 22:18:56.030","file":"user/user.go:26","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 22:18:56.030","file":"user/user.go:30","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 22:23:18.634","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:23:18.635","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:23:25.342","file":"user/user.go:24","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2020-12-01 22:23:25.342","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 22:23:25.343","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:24:00.789","file":"user/user.go:24","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2020-12-01 22:24:00.790","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 22:24:00.790","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 22:24:09.861","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:24:09.966","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-01 22:24:28.559","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:24:28.560","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-01 22:25:51.380","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:25:51.482","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:25:55.050","file":"user/user.go:24","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2020-12-01 22:25:55.050","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 22:25:55.050","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 22:26:52.862","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:26:52.863","file":"apiserver/main.go:69","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2020-12-01 22:26:53.867","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:27:01.654","file":"user/user.go:24","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2020-12-01 22:27:01.654","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 22:27:01.654","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 22:29:34.371","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:29:34.371","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:29:39.352","file":"user/user.go:24","msg":"username is: [], password is []"}
+{"level":"ERROR","timestamp":"2020-12-01 22:29:39.352","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 22:29:39.352","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 22:53:54.073","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:53:54.074","file":"apiserver/main.go:69","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2020-12-01 22:53:55.080","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-01 22:58:04.167","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 22:58:05.172","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 22:59:32.840","file":"user/user.go:24","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2020-12-01 23:01:55.871","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:01:55.872","file":"apiserver/main.go:69","msg":"Waiting for the router, retry in 1 second"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:01:56.055","file":"user/user.go:24","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2020-12-01 23:01:56.877","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-01 23:02:53.978","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:02:53.979","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:02:58.239","file":"user/user.go:24","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2020-12-01 23:03:16.090","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:03:16.193","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:03:26.834","file":"user/user.go:24","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2020-12-01 23:03:59.670","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:03:59.672","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:04:08.377","file":"user/user.go:24","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2020-12-01 23:17:56.006","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:17:56.007","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:18:33.642","file":"user/user.go:24","msg":"username is: [admin], password is []"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:20:11.531","file":"user/user.go:24","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2020-12-01 23:20:11.531","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 23:20:11.532","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 23:20:52.928","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:20:52.929","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:20:54.372","file":"user/user.go:24","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2020-12-01 23:20:54.372","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 23:20:54.372","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 23:23:27.698","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:23:27.699","file":"apiserver/main.go:69","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2020-12-01 23:23:28.704","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:23:54.964","file":"user/user.go:24","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2020-12-01 23:23:54.965","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 23:23:54.965","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"INFO","timestamp":"2020-12-01 23:24:53.853","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-01 23:24:53.854","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:24:57.408","file":"user/user.go:24","msg":"username is: [], password is [admin]"}
+{"level":"ERROR","timestamp":"2020-12-01 23:24:57.408","file":"user/user.go:27","msg":"Get an error","data":{"error":"Err - code: 20102, message: The user was not found. This is add message., error: username can not found in db: xx.xx.xx.xx"}}
+{"level":"DEBUG","timestamp":"2020-12-01 23:24:57.408","file":"user/user.go:31","msg":"err type is ErrUserNotFound"}
+{"level":"DEBUG","timestamp":"2020-12-01 23:29:15.234","file":"user/user.go:24","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2020-12-03 21:35:10.273","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-03 21:35:10.376","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-03 21:36:41.123","file":"user/create.go:20","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2020-12-03 21:36:41.123","file":"user/create.go:23","msg":"URL key param desc: text"}
+{"level":"INFO","timestamp":"2020-12-03 21:36:41.123","file":"user/create.go:26","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2020-12-03 21:36:41.123","file":"user/create.go:28","msg":"username is: [admin], password is [admin]"}
+{"level":"INFO","timestamp":"2020-12-03 21:37:22.830","file":"user/create.go:20","msg":"URL username: admin2"}
+{"level":"INFO","timestamp":"2020-12-03 21:37:22.830","file":"user/create.go:23","msg":"URL key param desc: text"}
+{"level":"INFO","timestamp":"2020-12-03 21:37:22.830","file":"user/create.go:26","msg":"Header Content-Type: application/json"}
+{"level":"DEBUG","timestamp":"2020-12-03 21:37:22.830","file":"user/create.go:28","msg":"username is: [admin], password is []"}
+{"level":"INFO","timestamp":"2020-12-13 23:35:19.208","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-13 23:35:19.209","file":"apiserver/main.go:69","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2020-12-13 23:35:20.213","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-13 23:40:24.591","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-12-13 23:50:58.252","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-13 23:50:58.353","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-13 23:51:47.470","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-12-13 23:53:09.356","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-12-13 23:55:02.282","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-12-13 23:55:50.986","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-12-13 23:56:07.582","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-13 23:56:07.582","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-13 23:59:03.692","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-12-14 00:12:31.482","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2020-12-14 00:12:58.415","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-14 00:12:58.415","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-14 00:22:56.161","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-14 00:22:56.162","file":"apiserver/main.go:69","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2020-12-14 00:22:57.167","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-14 21:21:28.920","file":"apiserver/main.go:55","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2020-12-14 21:21:29.023","file":"apiserver/main.go:52","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2020-12-14 21:22:22.281","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2020-12-14 21:46:11.833","file":"user/update.go:16","msg":"Update function called.","data":{"X-Request-Id":""}}
+{"level":"INFO","timestamp":"2021-01-03 22:35:35.905","file":"apiserver/main.go:53","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:35:35.906","file":"apiserver/main.go:67","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-03 22:35:36.908","file":"apiserver/main.go:50","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:41:12.619","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:41:12.723","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:41:31.867","file":"middleware/logging.go:82","msg":"4.36ms        | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-03 22:45:16.981","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:45:16.982","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:45:23.045","file":"middleware/logging.go:81","msg":" {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-03 22:45:57.025","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:45:57.026","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:46:05.259","file":"middleware/logging.go:82","msg":" {code: 3415000, message: 127.0.0.1}%!(EXTRA string=GET, string=/v1/user, int=0, string=OK)"}
+{"level":"INFO","timestamp":"2021-01-03 22:46:43.565","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:46:43.566","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:46:47.453","file":"middleware/logging.go:82","msg":"4.732ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-03 22:47:58.651","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:47:58.651","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:48:01.896","file":"middleware/logging.go:82","msg":"3.06ms   | 127.0.0.1 | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-03 22:48:47.468","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:48:47.469","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:48:50.984","file":"middleware/logging.go:81","msg":"2.393ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-03 22:49:34.151","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-03 22:49:34.255","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-03 22:49:37.259","file":"middleware/logging.go:82","msg":"3.413ms       | 127.0.0.1    | GET11 /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-07 22:40:34.939","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:40:34.940","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:41:45.821","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":"d7b7e5af-85b4-4268-9d60-ddb339b23a4a"}}
+{"level":"ERROR","timestamp":"2021-01-07 22:41:45.904","file":"middleware/logging.go:74","msg":"response body can not unmarshal to model.Response struct, body: `{\"code\":20103,\"message\":\"The token was invalid.\",\"data\":null}{\"code\":20002,\"message\":\"Database error.\",\"data\":null}`","data":{"error":"invalid character '{' after top-level value"}}
+{"level":"INFO","timestamp":"2021-01-07 22:41:45.905","file":"middleware/logging.go:82","msg":"83.466ms      | 127.0.0.1    | POST /v1/user | {code: 10001, message: invalid character '{' after top-level value}"}
+{"level":"INFO","timestamp":"2021-01-07 22:42:26.955","file":"middleware/logging.go:82","msg":"74.551ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:44:18.794","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:44:18.795","file":"apiserver/main.go:68","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-07 22:44:19.800","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:44:26.718","file":"middleware/logging.go:82","msg":"73.026ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:45:34.606","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:45:34.606","file":"apiserver/main.go:68","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-07 22:45:35.613","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:45:46.932","file":"middleware/logging.go:82","msg":"71.55ms       | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:46:21.287","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:46:21.390","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:46:25.667","file":"middleware/logging.go:82","msg":"72.24ms       | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:49:13.966","file":"middleware/logging.go:82","msg":"69.025ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:50:16.359","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:50:16.360","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:51:16.444","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 22:51:20.316","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:51:20.317","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:51:22.516","file":"middleware/logging.go:82","msg":"72.457ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:55:27.121","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:55:27.121","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:55:29.030","file":"middleware/logging.go:82","msg":"72.513ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 22:59:36.358","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 22:59:36.359","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 22:59:37.536","file":"middleware/logging.go:82","msg":"71.754ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:01:21.432","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:01:21.433","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:01:22.951","file":"middleware/logging.go:82","msg":"71.54ms       | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:04:01.165","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:04:10.356","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:04:10.460","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:04:10.746","file":"middleware/logging.go:82","msg":"70.892ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:04:12.820","file":"middleware/logging.go:82","msg":"72.499ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:11:27.753","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:11:27.754","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:11:29.217","file":"middleware/logging.go:82","msg":"72.57ms       | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:13:20.962","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:13:20.963","file":"apiserver/main.go:68","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-07 23:13:21.966","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:13:23.432","file":"middleware/logging.go:82","msg":"70.745ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:14:05.218","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:14:05.221","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:14:06.129","file":"middleware/logging.go:82","msg":"72.423ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:14:25.121","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:14:25.122","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:15:25.499","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:15:25.500","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:15:27.471","file":"middleware/logging.go:82","msg":"71.888ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:16.618","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:16.619","file":"apiserver/main.go:68","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:17.625","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:19.612","file":"middleware/logging.go:82","msg":"73.556ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:49.339","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:49.340","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:16:50.900","file":"middleware/logging.go:82","msg":"72.468ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:19:45.483","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:19:45.484","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:19:47.032","file":"middleware/logging.go:82","msg":"71.719ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:19:49.006","file":"middleware/logging.go:82","msg":"71.866ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:19:50.092","file":"middleware/logging.go:82","msg":"73.454ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:22:05.201","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:22:05.202","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:22:08.750","file":"middleware/logging.go:82","msg":"75.457ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:23:32.981","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:23:32.982","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:23:35.689","file":"middleware/logging.go:82","msg":"73.689ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:23:37.073","file":"middleware/logging.go:82","msg":"71.585ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:23:37.921","file":"middleware/logging.go:82","msg":"72.955ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:24:36.163","file":"middleware/logging.go:82","msg":"73.665ms      | 127.0.0.1    | POST /login | {code: 20104, message: The password was incorrect.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:25:19.563","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:25:19.563","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:25:22.398","file":"middleware/logging.go:82","msg":"70.502ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:21.909","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:21.911","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:24.341","file":"middleware/logging.go:82","msg":"70.901ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:39.236","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:39.236","file":"apiserver/main.go:68","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:40.242","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:41.819","file":"middleware/logging.go:82","msg":"71.114ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:52.706","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:52.707","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:56.448","file":"middleware/logging.go:82","msg":"70.677ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:29:59.642","file":"middleware/logging.go:82","msg":"73.434ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:16.507","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:16.508","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:18.280","file":"middleware/logging.go:82","msg":"73.649ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:41.089","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:46.212","file":"middleware/logging.go:82","msg":"71.556ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:52.029","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:52.030","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:31:53.437","file":"middleware/logging.go:82","msg":"71.036ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:36:49.736","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:36:49.737","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:36:52.387","file":"middleware/logging.go:82","msg":"71.907ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:36:56.040","file":"middleware/logging.go:82","msg":"71.859ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:40:52.969","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:41:05.433","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:41:05.434","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:41:07.527","file":"middleware/logging.go:82","msg":"71.322ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:41:20.444","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:41:20.445","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:41:22.416","file":"middleware/logging.go:82","msg":"71.472ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:43:53.324","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:43:53.325","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:43:54.856","file":"middleware/logging.go:82","msg":"70.219ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:16.328","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:16.329","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:22.450","file":"middleware/logging.go:82","msg":"71.464ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:24.688","file":"middleware/logging.go:82","msg":"72.089ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:46.782","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:46.783","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:45:49.583","file":"middleware/logging.go:82","msg":"71.551ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:53:21.320","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:53:27.524","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:53:27.525","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:53:32.519","file":"middleware/logging.go:82","msg":"69.71ms       | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:54:40.357","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:54:45.224","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:54:45.376","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:54:51.303","file":"middleware/logging.go:82","msg":"72.482ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:55:08.048","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:55:12.871","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:55:12.971","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:55:14.546","file":"middleware/logging.go:82","msg":"70.792ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-07 23:56:47.472","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-07 23:56:52.483","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-07 23:56:52.483","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-07 23:56:56.581","file":"middleware/logging.go:82","msg":"70.927ms      | 127.0.0.1    | POST /login | {code: 20003, message: Error occurred while signing the JSON web token.}"}
+{"level":"INFO","timestamp":"2021-01-08 00:00:44.346","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-08 00:00:44.453","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-08 00:00:51.494","file":"middleware/logging.go:82","msg":"71.127ms      | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-08 00:01:25.877","file":"config/config.go:72","msg":"Config file changed: /Users/afei/apiserver/conf/config.yaml"}
+{"level":"INFO","timestamp":"2021-01-08 00:01:30.568","file":"apiserver/main.go:54","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-08 00:01:30.568","file":"apiserver/main.go:68","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-08 00:01:31.573","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-08 00:01:32.800","file":"middleware/logging.go:82","msg":"72.511ms      | 127.0.0.1    | POST /login | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-08 00:02:32.500","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":"b4b5cfe1-5284-4edb-91b5-bd0c86e886a1"}}
+{"level":"ERROR","timestamp":"2021-01-08 00:02:32.574","file":"middleware/logging.go:74","msg":"response body can not unmarshal to model.Response struct, body: `{\"code\":20103,\"message\":\"The token was invalid.\",\"data\":null}{\"code\":20002,\"message\":\"Database error.\",\"data\":null}`","data":{"error":"invalid character '{' after top-level value"}}
+{"level":"INFO","timestamp":"2021-01-08 00:02:32.574","file":"middleware/logging.go:82","msg":"74.118ms      | 127.0.0.1    | POST /v1/user | {code: 10001, message: invalid character '{' after top-level value}"}
+{"level":"INFO","timestamp":"2021-01-08 00:03:17.747","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":"799a2c95-8398-4656-8d9e-7fb8ca038729"}}
+{"level":"ERROR","timestamp":"2021-01-08 00:03:17.815","file":"middleware/logging.go:74","msg":"response body can not unmarshal to model.Response struct, body: `{\"code\":20103,\"message\":\"The token was invalid.\",\"data\":null}{\"code\":20002,\"message\":\"Database error.\",\"data\":null}`","data":{"error":"invalid character '{' after top-level value"}}
+{"level":"INFO","timestamp":"2021-01-08 00:03:17.815","file":"middleware/logging.go:82","msg":"68.744ms      | 127.0.0.1    | POST /v1/user | {code: 10001, message: invalid character '{' after top-level value}"}
+{"level":"INFO","timestamp":"2021-01-08 00:03:58.666","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":"10938217-431c-4fd5-ade3-e5911c083eba"}}
+{"level":"INFO","timestamp":"2021-01-08 00:03:58.736","file":"middleware/logging.go:82","msg":"70.375ms      | 127.0.0.1    | POST /v1/user | {code: 20002, message: Database error.}"}
+{"level":"INFO","timestamp":"2021-01-08 00:04:46.272","file":"user/create.go:15","msg":"User create function called.","data":{"X-Request-Id":"e82310ec-ff60-4111-af9a-82f49fe93bf0"}}
+{"level":"ERROR","timestamp":"2021-01-08 00:04:46.342","file":"middleware/logging.go:74","msg":"response body can not unmarshal to model.Response struct, body: `{\"code\":20103,\"message\":\"The token was invalid.\",\"data\":null}{\"code\":20002,\"message\":\"Database error.\",\"data\":null}`","data":{"error":"invalid character '{' after top-level value"}}
+{"level":"INFO","timestamp":"2021-01-08 00:04:46.342","file":"middleware/logging.go:82","msg":"70.391ms      | 127.0.0.1    | POST /v1/user | {code: 10001, message: invalid character '{' after top-level value}"}
+{"level":"INFO","timestamp":"2021-01-08 23:48:39.610","file":"apiserver/main.go:64","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-08 23:48:39.610","file":"apiserver/main.go:78","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-08 23:48:40.613","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-08 23:50:05.968","file":"apiserver/main.go:64","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-08 23:50:05.968","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-08 23:50:05.968","file":"apiserver/main.go:78","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-08 23:50:06.970","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-08 23:55:26.005","file":"apiserver/main.go:64","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-08 23:55:26.005","file":"apiserver/main.go:59","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-08 23:55:26.005","file":"apiserver/main.go:78","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-08 23:55:27.010","file":"apiserver/main.go:51","msg":"The router has been deployed successfully"}
+{"level":"INFO","timestamp":"2021-01-09 00:06:42.912","file":"middleware/logging.go:82","msg":"3.153ms       | 127.0.0.1    | GET /v1/user | {code: 0, message: OK}"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:36.374","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:36.374","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:36.382","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:37.389","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:38.395","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:39.401","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:40.407","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:41.410","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:42.414","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:43.418","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:44.422","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:45.426","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2021-01-13 12:28:46.431","file":"apiserver/main.go:64","msg":"The router has no response, or it might took too long start up","data":{"error":"Cannot connet to the router.","trace":"goroutine 51 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc00008ed20, 0xc000098220, 0x2, 0x2, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc0000946f0, 0x0, ...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:135 +0x914\ngithub.com/lexkong/log/lager.(*logger).log(0xc00008ed20, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc0000946f0, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc00008ed20, 0x47f7822, 0x3e, 0x48b4de0, 0xc0000946f0, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:197 +0x87\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/st_lager.go:162\nmain.main.func1()\n\t/Users/afei/apiserver/main.go:64 +0xc5\ncreated by main.main\n\t/Users/afei/apiserver/main.go:62 +0x467\n"}}
+{"level":"INFO","timestamp":"2021-01-13 12:28:51.592","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:51.592","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:51.593","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:52.600","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:53.606","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:54.610","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:55.612","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:56.617","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:57.621","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:58.626","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:28:59.631","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:00.634","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2021-01-13 12:29:01.638","file":"apiserver/main.go:64","msg":"The router has no response, or it might took too long start up","data":{"error":"Cannot connet to the router.","trace":"goroutine 13 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc000070d20, 0xc00000e100, 0x2, 0x2, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc00005c240, 0x0, ...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:135 +0x914\ngithub.com/lexkong/log/lager.(*logger).log(0xc000070d20, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc00005c240, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc000070d20, 0x47f7822, 0x3e, 0x48b4de0, 0xc00005c240, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:197 +0x87\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/st_lager.go:162\nmain.main.func1()\n\t/Users/afei/apiserver/main.go:64 +0xc5\ncreated by main.main\n\t/Users/afei/apiserver/main.go:62 +0x467\n"}}
+{"level":"INFO","timestamp":"2021-01-13 12:29:35.773","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:35.773","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:35.774","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:36.779","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:37.781","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:38.787","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:39.793","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:40.799","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:41.804","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:42.810","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:43.815","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:44.820","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2021-01-13 12:29:45.826","file":"apiserver/main.go:64","msg":"The router has no response, or it might took too long start up","data":{"error":"Cannot connet to the router.","trace":"goroutine 34 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc000380d20, 0xc00009a0e0, 0x2, 0x2, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc000096050, 0x0, ...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:135 +0x914\ngithub.com/lexkong/log/lager.(*logger).log(0xc000380d20, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc000096050, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc000380d20, 0x47f7822, 0x3e, 0x48b4de0, 0xc000096050, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:197 +0x87\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/st_lager.go:162\nmain.main.func1()\n\t/Users/afei/apiserver/main.go:64 +0xc5\ncreated by main.main\n\t/Users/afei/apiserver/main.go:62 +0x467\n"}}
+{"level":"INFO","timestamp":"2021-01-13 12:29:48.256","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:48.256","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:48.256","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:49.259","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:50.265","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:51.268","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:52.273","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:53.280","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:54.285","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:29:55.290","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:19.811","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:19.811","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:19.812","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:20.817","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:21.823","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:22.825","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:23.833","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:24.840","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:25.844","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:26.849","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:27.852","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:39.094","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:39.094","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:39.094","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:40.100","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:41.106","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:42.109","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:43.113","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:44.119","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:45.121","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:46.127","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:47.129","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 12:32:48.132","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2021-01-13 12:32:49.135","file":"apiserver/main.go:64","msg":"The router has no response, or it might took too long start up","data":{"error":"Cannot connet to the router.","trace":"goroutine 18 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc0002f5260, 0xc000420800, 0x2, 0x2, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc0004384d0, 0x0, ...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:135 +0x914\ngithub.com/lexkong/log/lager.(*logger).log(0xc0002f5260, 0x4, 0x47f7822, 0x3e, 0x48b4de0, 0xc0004384d0, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc0002f5260, 0x47f7822, 0x3e, 0x48b4de0, 0xc0004384d0, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:197 +0x87\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/st_lager.go:162\nmain.main.func1()\n\t/Users/afei/apiserver/main.go:64 +0xc5\ncreated by main.main\n\t/Users/afei/apiserver/main.go:62 +0x467\n"}}
+{"level":"INFO","timestamp":"2021-01-13 21:36:10.533","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:10.534","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:10.541","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:11.547","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:12.553","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:13.559","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:14.563","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:15.565","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:16.567","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:17.573","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:18.578","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:36:19.584","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2021-01-13 21:36:20.585","file":"apiserver/main.go:64","msg":"The router has no response, or it might took too long start up","data":{"error":"Cannot connet to the router.","trace":"goroutine 28 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc0002e11a0, 0xc0003502e0, 0x2, 0x2, 0x4, 0x47f7842, 0x3e, 0x48b4de0, 0xc000366220, 0x0, ...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:135 +0x914\ngithub.com/lexkong/log/lager.(*logger).log(0xc0002e11a0, 0x4, 0x47f7842, 0x3e, 0x48b4de0, 0xc000366220, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc0002e11a0, 0x47f7842, 0x3e, 0x48b4de0, 0xc000366220, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:197 +0x87\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/st_lager.go:162\nmain.main.func1()\n\t/Users/afei/apiserver/main.go:64 +0xc5\ncreated by main.main\n\t/Users/afei/apiserver/main.go:62 +0x467\n"}}
+{"level":"INFO","timestamp":"2021-01-13 21:38:51.559","file":"apiserver/main.go:74","msg":"Start to listening the incoming requests on http address: :8081"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:51.559","file":"apiserver/main.go:79","msg":"Start to listening the incoming requests on http address: :8080"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:51.560","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:52.566","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:53.568","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:54.574","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:55.576","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:56.581","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:57.587","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:58.595","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:38:59.599","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"INFO","timestamp":"2021-01-13 21:39:00.606","file":"apiserver/main.go:93","msg":"Waiting for the router, retry in 1 second"}
+{"level":"FATAL","timestamp":"2021-01-13 21:39:01.611","file":"apiserver/main.go:64","msg":"The router has no response, or it might took too long start up","data":{"error":"Cannot connet to the router.","trace":"goroutine 26 [running]:\ngithub.com/lexkong/log/lager.(*logger).logs(0xc000380c60, 0xc00038a220, 0x2, 0x2, 0x4, 0x47f7842, 0x3e, 0x48b4de0, 0xc000384520, 0x0, ...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:135 +0x914\ngithub.com/lexkong/log/lager.(*logger).log(0xc000380c60, 0x4, 0x47f7842, 0x3e, 0x48b4de0, 0xc000384520, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:123 +0xd9\ngithub.com/lexkong/log/lager.(*logger).Fatal(0xc000380c60, 0x47f7842, 0x3e, 0x48b4de0, 0xc000384520, 0x0, 0x0, 0x0)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/lager/logger.go:197 +0x87\ngithub.com/lexkong/log.Fatal(...)\n\t/Users/afei/go/pkg/mod/github.com/lexkong/log@v0.0.0-20180607165131-972f9cd951fc/st_lager.go:162\nmain.main.func1()\n\t/Users/afei/apiserver/main.go:64 +0xc5\ncreated by main.main\n\t/Users/afei/apiserver/main.go:62 +0x467\n"}}
